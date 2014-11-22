@@ -25,7 +25,7 @@ Install [Node](http://nodejs.org/), if you don't have it allready. After that yo
 Dgeni and an additional module with basic plugins for Dgeni called `dgeni-packages`:
 
 ```bash
-$ npm install --save-dev dgeni dgeni-packages
+$ npm install --save-dev dgeni dgeni-packages canonical-path
 ```
 
 # How can I use Dgeni with Grunt?
